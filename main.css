@@ -1,0 +1,14 @@
+div{ 
+    border: solid 10px;
+    border-radius: 50px;
+    width: 80%;
+   background-color: bisque;
+    padding: 25px;
+    margin:auto;
+}
+form{ 
+    border:solid  10px;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 150px;
+}
